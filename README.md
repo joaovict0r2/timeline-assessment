@@ -7,7 +7,6 @@ A simple interactive timeline application built with React, TypeScript, and Vite
 - Interactive drag-and-drop timeline
 - Zoom in/out functionality
 - Lane management for timeline items
-- Responsive design
 
 ## Experience
 - I managed to implement the main functionality, rendering a timeline with items, so I'm satisfied, though it could be better, but satisfied.
