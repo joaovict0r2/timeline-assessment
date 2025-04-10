@@ -1,5 +1,5 @@
 import { TimelineItem } from '@/lib/timelineItems';
-import { ColorSet } from './types';
+import { ColorSet } from '../types/types';
 
 export const formatDateString = (date: Date): string => {
   // Ensure the date is normalized to midnight in local time zone

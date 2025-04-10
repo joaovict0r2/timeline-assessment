@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { Label, TimelineHeaderProps } from './types';
+import { Label, TimelineHeaderProps } from '../types/types';
 
 export const TimelineHeader = ({ minDate, maxDate, dayWidth, scale }: TimelineHeaderProps) => {
   const monthLabels = useMemo(() => {

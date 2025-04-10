@@ -49,29 +49,3 @@ npm run dev
 ```
 
 The application will be available at `http://localhost:5173`
-
-### Build
-
-To build the application for production:
-
-```
-pnpm build
-```
-
-or with npm:
-```
-npm run build
-```
-
-### Preview
-
-To preview the production build:
-
-```
-pnpm preview
-```
-
-or with npm:
-```
-npm run preview
-```

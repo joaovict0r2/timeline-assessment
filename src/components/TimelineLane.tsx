@@ -1,6 +1,6 @@
 import React from 'react';
 import { cn } from '@/lib/utils';
-import { TimelineLaneProps } from './types';
+import { TimelineLaneProps } from '../types/types';
 import { TimelineItemComponent } from './TimelineItem';
 
 export const TimelineLane: React.FC<TimelineLaneProps> = ({

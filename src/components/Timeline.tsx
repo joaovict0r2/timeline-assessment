@@ -4,8 +4,8 @@ import { TimelineItem as TimelineItemType } from '@/lib/timelineItems';
 import { TimelineHeader } from './TimelineHeader';
 import { TimelineControls } from './TimelineControls';
 import { TimelineLane } from './TimelineLane';
-import { ItemDragState, TimelineItemWithLane } from './types';
-import { formatDateString, formatDateRange } from './timelineUtils';
+import { ItemDragState, TimelineItemWithLane } from '../types/types';
+import { formatDateString, formatDateRange } from '../lib/timelineUtils';
 import assignLanes from '../lib/assignLanes';
 
 interface TimelineProps {

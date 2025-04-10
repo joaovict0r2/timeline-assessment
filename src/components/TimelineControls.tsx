@@ -1,4 +1,4 @@
-import { TimelineControlsProps } from './types';
+import { TimelineControlsProps } from '../types/types';
 
 export const TimelineControls = ({ onZoomIn, onZoomOut }: TimelineControlsProps) => {
   return (

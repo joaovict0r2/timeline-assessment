@@ -1,7 +1,7 @@
 import React from 'react';
 import { cn } from '@/lib/utils';
-import { TimelineItemProps } from './types';
-import { getItemStyle, getItemColor } from './timelineUtils';
+import { TimelineItemProps } from '../types/types';
+import { getItemStyle, getItemColor } from '../lib/timelineUtils';
 
 export const TimelineItemComponent: React.FC<TimelineItemProps> = ({
   item,

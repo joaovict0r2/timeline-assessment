@@ -1,5 +1,5 @@
 import { TimelineItem } from "@/lib/timelineItems";
-import { TimelineItemWithLane } from "@/components/types";
+import { TimelineItemWithLane } from "@/types/types";
 
 interface ProcessableItem extends TimelineItemWithLane {
   _processed?: boolean;
