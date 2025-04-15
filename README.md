@@ -2,6 +2,8 @@
 
 A simple interactive timeline application built with React, TypeScript, and Vite.
 
+<img src="https://i.ibb.co/xSgqzgzF/timeline.png">
+
 ## Features
 
 - Interactive drag-and-drop timeline
